@@ -97,11 +97,11 @@
     </div>
   </div>
 
-  <a href="assets/grille-competences.xlsx" class="comp-excel-link" target="_blank">
+  <a href="assets/Grille_de_competence_Ines" class="comp-excel-link" target="_blank">
     <div class="comp-excel-icon">📊</div>
     <div class="comp-excel-text">
       <div class="title">Grille de compétences complète (BTS SIO)</div>
-      <div class="sub">Fichier Excel — Tableau officiel des compétences du référentiel</div>
+      <div class="sub">Fichier PDF — Tableau officiel des compétences du référentiel</div>
     </div>
     <div class="comp-excel-arrow">↗</div>
   </a>
